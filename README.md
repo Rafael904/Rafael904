@@ -1,4 +1,4 @@
-# Rafael Luiz Pereira Gomes
+# 🧠 Rafael Luiz Pereira Gomes
 
 > Desenvolvedor front-end
 
