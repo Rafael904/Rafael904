@@ -35,6 +35,3 @@ Meu nome é Rafael tenho 17 anos e moro no entorno de Brasília. Estou quase ter
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
----
-
